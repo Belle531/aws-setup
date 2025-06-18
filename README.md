@@ -34,31 +34,3 @@ This repository documents how to set up an AWS account on a $1.00 monthly budget
 | **Performance** | Low-latency global delivery         | Millisecond response time              |
 | **Security**    | IAM roles, encryption, audit logs   | Built-in encryption & fine-grained ACL |
 | **Tooling**     | AWS CLI, SDKs, CloudFormation       | SDKs, Streams, Global Tables           |
-
----
-
-## 💡 Capstone Project Ideas Using DynamoDB
-
-Here are practical uses for DynamoDB in your website:
-
-- **🔐 User Profiles** – Store names, preferences, and login activity
-- **🏆 Leaderboards** – Display real-time scores or activity rankings
-- **📝 Feedback & Comments** – Capture and display user-generated feedback
-- **📊 Content Tracking** – Monitor the most viewed lessons or pages
-- **📂 Resource Management** – List and track downloadable tools or files
-
----
-
-## 📦 Next Steps
-
-- Set up DynamoDB from the AWS Console
-- Design your table schema based on project needs
-- Use AWS SDK for JavaScript to connect your frontend/backend
-- Monitor usage to stay within budget
-
----
-
-> ⚠️ This setup is optimized for development and testing under the AWS Free Tier with a $1/month budget cap.
-
-![alt text](<AWS  2025-06-16 195944.jpg>)
-
